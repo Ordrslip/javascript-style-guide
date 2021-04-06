@@ -3814,3 +3814,5 @@ Other Style Guides
   - [Reference](https://github.com/airbnb/javascript/wiki/The-JavaScript-Style-Guide-Guide)
 
 **[⬆ back to top](#table-of-contents)**
+
+};
